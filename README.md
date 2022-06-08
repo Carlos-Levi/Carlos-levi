@@ -1,6 +1,6 @@
 ### Olá, Levi aqui, seja bem vindo ao meu perfil 👋
 
-- 🌱 Graduando Engenharia da computação 
+- 💻 Graduando Engenharia da computação 
 - 👨🏽‍💻 Estudando Banco de dados com SQL (T-SQL)
 
 <div align="center">
@@ -26,6 +26,6 @@
 <a href = "mailto:contatocarlos.levi2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/carlos-levi-099761202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/carlos-levi/carloslevi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/carlos-levi/carlos-levi/blob/output/github-contribution-grid-snake.svg)
 
 </div>
