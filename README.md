@@ -1,4 +1,4 @@
-### Olá, Levi aqui, seja bem vindo ao meu perfil 👋
+### 👋 Seja bem vindo ao meu perfil 
 
 - 💻 Graduando Engenharia da computação 
 - 👨🏽‍💻 Estudando Banco de dados com SQL (T-SQL)
