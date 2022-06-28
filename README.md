@@ -1,7 +1,7 @@
 ### 👋 Bem vindo ao meu perfil 
 
 - 💻 Graduando Engenharia da computação 
-- 👨🏽‍💻 Estudando Banco de dados com SQL (T-SQL)
+- 👨🏽‍💻 Atualmente estudando Banco de dados e a área do Front End
 
 <div align="center">
   <a href="https://github.com/carlos-levi">
