@@ -1,12 +1,13 @@
 ### 👋 Bem vindo ao meu perfil 
 
 - 💻 Graduando Engenharia da computação 
-- 👨🏽‍💻 Atualmente estudando Banco de dados e a área do Front End
+- 👨🏽‍💻 Atualmente estudando Front End e Banco de Dados 
 
 <div align="center">
   <a href="https://github.com/carlos-levi">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlos-levi&show_icons=true&theme=dark&include_all_commits=true&count_private="/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-levi&layout=compact&langs_count=7&theme=dark"/>
+  
 </div>
   
 
@@ -16,6 +17,7 @@
   <img align="center" alt="Levi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Levi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Levi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  
  </div>
   
 ##
