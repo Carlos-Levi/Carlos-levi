@@ -1,7 +1,7 @@
 ### 👋 Bem vindo ao meu perfil 
 
 - 💻 Graduando Engenharia da computação 
-- 👨🏽‍💻 Atualmente estudando Front End e Banco de Dados 
+- 👨🏽‍💻 Em busca de me tornar FullStack
 
 <div align="center">
   <a href="https://github.com/carlos-levi">
