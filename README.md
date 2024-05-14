@@ -14,14 +14,14 @@
 ## sᴏʙʀᴇ ᴍɪᴍ
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Medium%20Skin%20Tone.png" alt="Hand with Fingers Splayed Medium Skin Tone" width="25" height="25" /> Me chamo Levi, e sou estudante de Engenharia da Computação. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="25" height="25" />  Em busca de oportunidades no mercado de TI (Estágio [remunerado ou não], CLT, PJ, Trainee).<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Como futuro Engenheiro, minhas habilidades incluem a resolução de problemas complexos, uma abordagem criativa para a programação e paixão por eletrônica e inovação tecnológica.<br/>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="25" height="25" /> Atualmente participando do programa de Formação Acelerada em Soluções Tech da Cesar School. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Como futuro Engenheiro, minhas habilidades incluem a resolução de problemas complexos, uma abordagem criativa para a programação, paixão por eletrônica e inovação tecnológica.<br/>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="25" height="25" /> Apaixonado por Jesus, Futebol, Exatas, Tecnologia, Astronomia, Livros e Música.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Quer se conectar? Manda uma solicitação no meu linkedin 
   
 ## ᴍɪɴʜᴀs sᴛᴀᴄᴋs
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,c,python,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,typescript,figma,vscode,git,github,notion,windows&theme=dark" />
   
  </div>
  
