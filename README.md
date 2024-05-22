@@ -21,7 +21,7 @@
   
 ## ᴍɪɴʜᴀs sᴛᴀᴄᴋs
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,typescript,figma,vscode,git,github,notion,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,typescript,figma,vscode,git,github,notion,windows&theme=dark" />
   
  </div>
  
