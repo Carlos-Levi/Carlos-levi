@@ -5,7 +5,7 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />  During my graduation I had contact with algorithms and data structures, computer architecture and organization, electronics and AI, working on important computing concepts, developing logical reasoning and problem solving.<br/>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="25" height="25" />  Volunteer at *Codigo Certo Cordes Jr* and participating in Cesar School's Accelerated Training in Tech Solutions program <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="25" height="25" />  Volunteer at *Codigo Certo Cordes Jr* and participating in Cesar School Accelerated Training in Tech Solutions program <br />
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" />   Want to connect? Send a request
   
