@@ -7,7 +7,7 @@
 
 ### 🇧🇷 
 
-Olá! Meu nome é **Levi** daqui a poucos dias **Engenheiro de Computação**. Durante minha graduação, adquiri conhecimentos sólidos em algoritmos e estruturas de dados, arquitetura e organização de computadores, eletrônica e inteligência artificial. Essas experiências têm sido fundamentais para desenvolver meu raciocínio lógico e habilidades de resolução de problemas.
+Olá! Meu nome é **Levi** daqui a poucos dias serei **Engenheiro de Computação**. Durante minha graduação, adquiri conhecimentos sólidos em algoritmos e estruturas de dados, arquitetura e organização de computadores, eletrônica e inteligência artificial. Essas experiências têm sido fundamentais para desenvolver meu raciocínio lógico e habilidades de resolução de problemas.
 
 Atualmente, sou voluntário na **Codigo Certo Cordes Jr** e estou participando do programa de **Treinamento Acelerado em Soluções Tecnológicas** da **Cesar School**. Adoro colaborar em projetos inovadores e estou sempre em busca de novas oportunidades para aprender e crescer.
 
