@@ -1,13 +1,13 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt="Computer Engineering" height="300" width="500"/>
-  <p style="font-style: italic; font-size: 20;"> Engenheiro de Computação, Recife - PE </p>
+  <p style="font-style: italic; font-size: 20;"> Estudante de Engenharia da Computação </p>
 </div>
 
 ## 👨‍💻 Sobre Mim / About Me
 
 ### 🇧🇷 
 
-Olá! Meu nome é **Levi** e sou **Engenheiro de Computação**, formado em 2024. Durante minha graduação, adquiri conhecimentos sólidos em algoritmos e estruturas de dados, arquitetura e organização de computadores, eletrônica e inteligência artificial. Essas experiências têm sido fundamentais para desenvolver meu raciocínio lógico e habilidades de resolução de problemas.
+Olá! Meu nome é **Levi** daqui a poucos dias **Engenheiro de Computação**. Durante minha graduação, adquiri conhecimentos sólidos em algoritmos e estruturas de dados, arquitetura e organização de computadores, eletrônica e inteligência artificial. Essas experiências têm sido fundamentais para desenvolver meu raciocínio lógico e habilidades de resolução de problemas.
 
 Atualmente, sou voluntário na **Codigo Certo Cordes Jr** e estou participando do programa de **Treinamento Acelerado em Soluções Tecnológicas** da **Cesar School**. Adoro colaborar em projetos inovadores e estou sempre em busca de novas oportunidades para aprender e crescer.
 
@@ -56,8 +56,6 @@ Want to connect? Follow me!
 ---
 
 ## 📫 Contato
-
-Você pode me encontrar nos seguintes canais:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-levi-099761202)
 
