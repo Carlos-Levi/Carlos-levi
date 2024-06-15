@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt="Computer Engineering" width="400"/>
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/848222085757834241/517471EB664183C0656F17A598A8F05CAED536A3/?imw=400&imh=300&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Recife - PE" width="425"/>
+  <img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt="Computer Engineering" height="300" width="500"/>
   <p style="font-style: italic; font-size: 20px;">Engenheiro de Computação, Recife - PE </p>
 </div>
 
@@ -12,7 +11,12 @@ Olá! Meu nome é **Levi** e sou **Engenheiro de Computação**, formado em 2024
 
 Atualmente, sou voluntário na **Codigo Certo Cordes Jr** e estou participando do programa de **Treinamento Acelerado em Soluções Tecnológicas** da **Cesar School**. Adoro colaborar em projetos inovadores e estou sempre em busca de novas oportunidades para aprender e crescer.
 
-Quer se conectar? Envie uma solicitação!
+Quer se conectar? Segue ai!
+<div aling="center">
+  
+<img src="https://steamuserimages-a.akamaihd.net/ugc/848222085757834241/517471EB664183C0656F17A598A8F05CAED536A3/?imw=400&imh=300&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" height="180" width="280"/>
+
+</div>
 
 ### 🇺🇸 
 
@@ -20,14 +24,14 @@ Hi! My name is **Levi** and I'm a **Computer Engineer**, graduated in 2024. Duri
 
 Currently, I am a volunteer at **Codigo Certo Cordes Jr** and participating in the **Accelerated Training in Tech Solutions** program at **Cesar School**. I love collaborating on innovative projects and am always looking for new opportunities to learn and grow.
 
-Want to connect? Send a request!
+Want to connect? Follow me!
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" width="500"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" width="400"/>
 </div>
 
 <p align="center">
