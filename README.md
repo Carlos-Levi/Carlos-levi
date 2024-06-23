@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt="Computer Engineering" height="300" width="500"/>
-  <p style="font-style: italic; font-size: 20;"> Estudante de Engenharia da Computação </p>
+  <img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt="Computer Engineering" height="300" width="580"/>
+  <!--p style="font-style: italic; font-size: 20;"> 👨‍💻 Sobre Mim / About Me </p-->
 </div>
-
-## 👨‍💻 Sobre Mim / About Me
 
 ### 🇧🇷 
 
@@ -12,10 +10,9 @@ Olá! Meu nome é **Levi** daqui a poucos dias serei **Engenheiro de Computaçã
 Atualmente, sou voluntário na **Codigo Certo Cordes Jr** e estou participando do programa de **Treinamento Acelerado em Soluções Tecnológicas** da **Cesar School**. Adoro colaborar em projetos inovadores e estou sempre em busca de novas oportunidades para aprender e crescer.
 
 Quer se conectar? Segue ai!
-<div aling="center">
-  
-<img src="https://steamuserimages-a.akamaihd.net/ugc/848222085757834241/517471EB664183C0656F17A598A8F05CAED536A3/?imw=400&imh=300&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" height="180" width="280"/>
 
+<div aling="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/848222085757834241/517471EB664183C0656F17A598A8F05CAED536A3/?imw=400&imh=300&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" height="180" width="280"/>
 </div>
 
 ### 🇺🇸 
@@ -27,7 +24,6 @@ Currently, I am a volunteer at **Codigo Certo Cordes Jr** and participating in t
 Want to connect? Follow me!
 
 ---
-
 ## 🛠️ Skills & Technologies
 
 <div align="center">
