@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt="Computer Engineering" height="300" width="550"/>
+  <img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt="Computer Engineering" height="300" width="520"/>
   <!--p style="font-style: italic; font-size: 20;"> 👨‍💻 Sobre Mim / About Me </p-->
 </div>
 
