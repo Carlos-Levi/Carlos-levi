@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt="Computer Engineering" height="300" width="520"/>
-  <!--p style="font-style: italic; font-size: 20;"> 👨‍💻 Sobre Mim / About Me </p-->
-</div>
 
 ### 🇧🇷 
 
@@ -9,11 +5,9 @@ Olá! Meu nome é **Levi** daqui a poucos dias serei **Engenheiro de Computaçã
 
 Atualmente, sou voluntário na **Codigo Certo Cordes Jr** e estou participando do programa de **Treinamento Acelerado em Soluções Tecnológicas** da **Cesar School**. Adoro colaborar em projetos inovadores e estou sempre em busca de novas oportunidades para aprender e crescer.
 
-Quer se conectar? Segue ai!
-
-<div aling="center">
+<!--div aling="center">
   <img src="https://steamuserimages-a.akamaihd.net/ugc/848222085757834241/517471EB664183C0656F17A598A8F05CAED536A3/?imw=400&imh=300&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" height="180" width="280"/>
-</div>
+</div-->
 
 ### 🇺🇸 
 
@@ -21,13 +15,12 @@ Hi! My name is **Levi** and I'm a **Computer Engineer**, graduated in 2024. Duri
 
 Currently, I am a volunteer at **Codigo Certo Cordes Jr** and participating in the **Accelerated Training in Tech Solutions** program at **Cesar School**. I love collaborating on innovative projects and am always looking for new opportunities to learn and grow.
 
-Want to connect? Follow me!
-
 ---
-## 🛠️ Skills & Technologies
+## 🛠️ Technologies
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" width="400"/>
+  <img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt="Computer Engineering" height="223" width="400"/>
 </div>
 <br>
 <!--div align="center">
@@ -51,7 +44,7 @@ Want to connect? Follow me!
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-levi-099761202)
 
