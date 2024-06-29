@@ -15,7 +15,6 @@ Hi! My name is **Levi** and I'm a **Computer Engineer**, graduated in 2024. Duri
 
 Currently, I am a volunteer at **Codigo Certo Cordes Jr** and participating in the **Accelerated Training in Tech Solutions** program at **Cesar School**. I love collaborating on innovative projects and am always looking for new opportunities to learn and grow.
 
----
 ## 🛠️ Technologies
 
 <div align="center">
@@ -41,8 +40,6 @@ Currently, I am a volunteer at **Codigo Certo Cordes Jr** and participating in t
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
-
----
 
 ## 📫 Contact
 
