@@ -1,13 +1,8 @@
-
 ### 🇧🇷 
 
 Olá! Meu nome é **Levi** daqui a poucos dias serei **Engenheiro de Computação**. Durante minha graduação, adquiri conhecimentos sólidos em algoritmos e estruturas de dados, arquitetura e organização de computadores, eletrônica e inteligência artificial. Essas experiências têm sido fundamentais para desenvolver meu raciocínio lógico e habilidades de resolução de problemas.
 
 Atualmente, sou voluntário na **Codigo Certo Jr** e estou participando do programa de **Treinamento Acelerado em Soluções Tecnológicas** da **Cesar School**. Adoro colaborar em projetos inovadores e estou sempre em busca de novas oportunidades para aprender e crescer.
-
-<!--div aling="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/848222085757834241/517471EB664183C0656F17A598A8F05CAED536A3/?imw=400&imh=300&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" height="180" width="280"/>
-</div-->
 
 ### 🇺🇸 
 
@@ -18,8 +13,8 @@ Currently, I am a volunteer at **Codigo Certo Cordes Jr** and participating in t
 ## 🛠️ Technologies
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" width="400"/>
-  <img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt="Computer Engineering" height="223" width="400"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" width="300"/>
+  <img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt="Computer Engineering" height="168" width="300"/>
 </div>
 <br>
 <!--div align="center">
