@@ -1,3 +1,5 @@
+<a align ="right" href="https://www.linkedin.com/in/carlos-levi-099761202" target="_blank"><img align ="right" loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
 ### 🇧🇷 
 
 Olá! Meu nome é **Levi** daqui a poucos dias serei **Engenheiro de Computação**. Durante minha graduação, adquiri conhecimentos sólidos em algoritmos e estruturas de dados, arquitetura e organização de computadores, eletrônica e inteligência artificial. Essas experiências têm sido fundamentais para desenvolver meu raciocínio lógico e habilidades de resolução de problemas.
@@ -35,9 +37,5 @@ Currently, I am a volunteer at **Codigo Certo Cordes Jr** and participating in t
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
-
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-levi-099761202)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&width=100%)
