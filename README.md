@@ -41,4 +41,12 @@ I am currently a volunteer at **Codigo Certo Jr**, which has allowed me to learn
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
+<br>
+<div align="center">
+  <a href="https://github.com/carlos-levi">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=carlos-levi&rank_icon=github&show_icons=true&theme=dracula&include_all_commits=true&border_radius=15&count_private=true&hide_border=true&title_color=87CEFA&icon_color=FFD700&layout=compact"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-levi&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&theme=dracula&hide_border=true&border_radius=10&title_color=87CEFA&icon_color=FFD700"/>
+</div>
+<br>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&width=100%)
