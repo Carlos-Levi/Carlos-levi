@@ -1,23 +1,17 @@
-<!-- Olá, seja bem vindo ao meu README @carlos-levi, fique a vontade para se inspirirar, e se possivel, deixa uma Star ⭐😃 -->
-### 🇧🇷 
+<!-- Olá, seja bem vindo ao meu README @carlos-levi-->
 
-Olá! Meu nome é **Levi**, e daqui a poucos dias serei **Engenheiro de Computação**. Durante minha graduação, adquiri conhecimentos sólidos em algoritmos e estruturas de dados, arquitetura e organização de computadores, eletrônica e inteligência artificial. Essas experiências têm sido fundamentais para desenvolver meu raciocínio lógico e habilidades de resolução de problemas.
+#### Hi there 🦀
 
-Atualmente, sou voluntário na **Codigo Certo Jr**, o que tem me possibilitado aprender e colaborar em projetos reais e inovadores, utilizando tecnologias como Next.js, React, Git e entre outras.
+<!--⚡ Meu nome é Levi, sou formado em Engenharia de Computação e atuo como desenvolvedor frontend voluntário na @CodigoCerto.>
 
-### 🇺🇸 
+<!--Durante minha graduação, adquiri conhecimentos sólidos em **algoritmos e estruturas de dados, arquitetura e organização de computadores, eletrônica e inteligência artificial**. Essas experiências têm sido fundamentais para desenvolver meu raciocínio lógico e habilidades de resolução de problemas.-->
 
-Hi! My name is **Levi** and I'm a **Computer Engineer**, graduated in 2024. During my studies, I have gained solid knowledge in algorithms and data structures, computer architecture and organization, electronics, and artificial intelligence. These experiences have been crucial in developing my logical reasoning and problem-solving skills.
 
-I am currently a volunteer at **Codigo Certo Jr**, which has allowed me to learn and collaborate on real and innovative projects, using technologies such as Next.js, React, Git and others.
+My name is Levi, I have a degree in Computer Engineering and I work as a volunteer frontend developer at @codigocerto.
 
-## 🛠️ Technologies
+<!--During my studies, I have gained solid knowledge in algorithms and data structures, computer architecture and organization, electronics, and artificial intelligence. These experiences have been crucial in developing my logical reasoning and problem-solving skills.-->
 
-<!-- GIFS
-div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" width="300"/>
-  <img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" alt="Computer Engineering" height="168" width="300"/>
-</div-->
+#### 🛠️ Technologies
 
 <br>
 <div align="center">
