@@ -1,10 +1,11 @@
 <!-- Olá, seja bem vindo ao meu README @carlos-levi-->
 
+![Banner](https://raw.githubusercontent.com/Carlos-Levi/Carlos-levi/main/Levi%20Banner%201.png)
+
 #### Hi there 🦀
 
-<!--⚡ Meu nome é Levi, sou formado em Engenharia de Computação e atuo como desenvolvedor frontend voluntário na @CodigoCerto.>
-
-<!--Durante minha graduação, adquiri conhecimentos sólidos em algoritmos e estruturas de dados, arquitetura e organização de computadores, eletrônica e inteligência artificial. Essas experiências têm sido fundamentais para desenvolver meu raciocínio lógico e habilidades de resolução de problemas.-->
+<!--⚡ Meu nome é Levi, sou formado em Engenharia de Computação e atuo como desenvolvedor frontend voluntário na @CodigoCerto
+Durante minha graduação, adquiri conhecimentos sólidos em algoritmos e estruturas de dados, arquitetura e organização de computadores, eletrônica e inteligência artificial. Essas experiências têm sido fundamentais para desenvolver meu raciocínio lógico e habilidades de resolução de problemas.-->
 
 My name is Levi, I have a degree in Computer Engineering and I work as a volunteer frontend developer at codigo certo jr.
 
