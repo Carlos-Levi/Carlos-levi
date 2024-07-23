@@ -31,4 +31,4 @@ My name is Levi, I have a degree in Computer Engineering and I work as a volunte
   <img alt="Nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&width=100%)
+<!--[Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&width=100%)
