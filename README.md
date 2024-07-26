@@ -1,6 +1,6 @@
 <!-- Olá, seja bem vindo ao meu README @carlos-levi-->
 
-![Banner](https://raw.githubusercontent.com/Carlos-Levi/Carlos-levi/main/Levi%20Banner%201.png)
+![Banner](https://github.com/Carlos-Levi/Carlos-levi/blob/main/Banner%20Levi.png)
 
 #### Hi there 🦀
 
