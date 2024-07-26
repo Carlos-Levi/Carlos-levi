@@ -17,9 +17,8 @@ During my studies, I have gained solid knowledge in algorithms and data structur
 
 <div align="left">
   <a href="https://github.com/carlos-levi">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlos-levi&rank_icon=github&show_icons=true&theme=dracula&include_all_commits=true&border_radius=15&count_private=true&hide_border=true&title_color=CDD4B9&icon_color=BDB76B&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlos-levi&rank_icon=github&show_icons=true&theme=dracula&include_all_commits=true&border_radius=15&count_private=tfalse&hide_border=true&title_color=CDD4B9&icon_color=BDB76B&layout=compact"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-levi&size_weight=1&count_weight=1&layout=compact&langs_count=8&theme=dracula&hide_border=true&border_radius=10&title_color=CDD4B9&icon_color=BDB76B"/>
 </div>
-<br>
 
 <!--[Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&width=100%)-->
