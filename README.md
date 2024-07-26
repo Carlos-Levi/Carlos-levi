@@ -14,6 +14,7 @@ During my studies, I have gained solid knowledge in algorithms and data structur
 <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,lua,git,figma,typescript,react,nextjs&theme=dark" />
 
 <br>
+
 <div align="left">
   <a href="https://github.com/carlos-levi">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlos-levi&rank_icon=github&show_icons=true&theme=dracula&include_all_commits=true&border_radius=15&count_private=true&hide_border=true&title_color=CDD4B9&icon_color=BDB76B&layout=compact"/>
