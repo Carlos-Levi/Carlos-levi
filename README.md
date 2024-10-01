@@ -11,7 +11,7 @@ During my studies, I have gained solid knowledge in algorithms and data structur
 #### 🛠️ Technologies
 
 <br>
-<img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,lua,mysql,linux,git,figma,typescript,react,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,lua,mysql,linux,git,figma,javascript,react,nextjs&theme=dark" />
 
 <br>
 
