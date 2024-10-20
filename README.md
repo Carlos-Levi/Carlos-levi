@@ -6,8 +6,6 @@
 
 My name is Levi, I have a degree in Computer Engineering and I work as a volunteer frontend developer at codigo certo jr.
 
-During my studies, I have gained solid knowledge in algorithms and data structures, computer architecture and organization, electronics, and artificial intelligence. These experiences have been crucial in developing my logical reasoning and problem-solving skills
-
 #### 🛠️ Technologies
 
 <br>
