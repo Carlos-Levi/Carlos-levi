@@ -4,7 +4,7 @@
 
 #### Hi there 🦀
 
-My name is Levi, I have a degree in Computer Engineering and I work as a frontend developer at codigo certo jr.
+My name is Levi, I have a degree in Computer Engineering and I work as a fullstack developer.
 
 #### 🛠️ Technologies
 
