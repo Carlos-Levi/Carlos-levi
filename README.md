@@ -9,7 +9,7 @@ My name is Levi, I have a degree in Computer Engineering and I work as a fullsta
 #### 🛠️ Technologies
 
 <br>
-<img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,lua,mysql,linux,git,figma,javascript,react,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,lua,mysql,mongodb,npm,nodejs,linux,git,figma,javascript,react,nextjs&theme=dark" />
 
 <br>
 
