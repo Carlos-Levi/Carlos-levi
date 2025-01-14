@@ -4,7 +4,7 @@
 
 #### Hi there 🦀
 
-My name is Levi, I have a degree in Computer Engineering and I work as a fullstack developer.
+My name is Levi, I have a degree in Computer Engineering
 
 #### 🛠️ Technologies
 
