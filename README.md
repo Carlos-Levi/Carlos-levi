@@ -4,7 +4,7 @@
 
 #### Hi there 🦀
 
-My name is Levi, I have a degree in Computer Engineering
+My name is Levi, I'm a Computer Engineering
 
 #### 🛠️ Technologies
 
